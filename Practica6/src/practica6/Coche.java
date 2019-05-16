@@ -36,5 +36,6 @@ public class Coche {
 			resultado += "no dispone de información";
 		}
 		return resultado;
+		// Comentario
 	}
 }
